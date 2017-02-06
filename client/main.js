@@ -93,7 +93,7 @@ $scope.val= $('#val').val();
 	 from:"Newyork",
 	 image:"Manchester.jpg",
 	 to:"Manchester",
-	 pilotsName:"Ahmad Shamasneh ",
+	 pilotsName:"Waleed Nemreeny",
 	 seats:195,
 	 emptyseats:8,
 	 flightcompany:"Germania for airline"
